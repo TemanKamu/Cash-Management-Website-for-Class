@@ -1,0 +1,1 @@
+const cardDropdown = document.querySelector('#card-dropdown');
